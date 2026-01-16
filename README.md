@@ -1,5 +1,6 @@
 # Pipeline Repository Starter
 
+
 This repository is the starter template for the CSAI-382 data pipeline project. It gives you a clean folder layout to organize Databricks or Jupyter notebooks, SQL scripts, automation code, and small sample datasets while you connect the repo to Databricks.
 
 ## Purpose
