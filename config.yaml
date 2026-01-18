@@ -1,0 +1,11 @@
+# Configuration for Step Test Data Import
+
+catalog: workspace
+schema: bronze
+tables:
+  - name: device_message_raw
+    source_file: device_messages.parquet
+    description: Raw device messages imported from parquet
+  - name: Rapid_step_test_raw
+    source_file: rapid_step_tests.parquet
+    description: Raw rapid step test data imported from parquet
