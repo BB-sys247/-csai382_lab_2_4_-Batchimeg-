@@ -49,7 +49,7 @@ spark-warehouse/
 **/*.iml
 
 # Logs
-logs/
+
 *.log
 *.out
 
@@ -84,6 +84,6 @@ Thumbs.db
 
 # Project specific
 notebooks/.ipynb_checkpoints/
-data/
+
 outputs/
 
